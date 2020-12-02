@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hipocloroso/static/css/main.373cd98a.chunk.css",
+    "main.js": "/hipocloroso/static/js/main.d315e52c.chunk.js",
+    "main.js.map": "/hipocloroso/static/js/main.d315e52c.chunk.js.map",
+    "runtime-main.js": "/hipocloroso/static/js/runtime-main.00f5f79b.js",
+    "runtime-main.js.map": "/hipocloroso/static/js/runtime-main.00f5f79b.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/hipocloroso/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.edb7454b.chunk.js": "/hipocloroso/static/js/2.edb7454b.chunk.js",
+    "static/js/2.edb7454b.chunk.js.map": "/hipocloroso/static/js/2.edb7454b.chunk.js.map",
+    "index.html": "/hipocloroso/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/hipocloroso/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.373cd98a.chunk.css.map": "/hipocloroso/static/css/main.373cd98a.chunk.css.map",
+    "static/js/2.edb7454b.chunk.js.LICENSE.txt": "/hipocloroso/static/js/2.edb7454b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00f5f79b.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.edb7454b.chunk.js",
+    "static/css/main.373cd98a.chunk.css",
+    "static/js/main.d315e52c.chunk.js"
+  ]
+}

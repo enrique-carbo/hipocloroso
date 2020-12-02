@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/Home.css","webpack://src/pages/Vet.css"],"names":[],"mappings":"AAAA,eACE,gBACA,CCFF,YACE,WACF","file":"main.373cd98a.chunk.css","sourcesContent":["#carousel-text {\r\n  font-size: 3.2rem;\r\n  }\r\n\r\n.fullHeight {\r\n  height: 80vh;\r\n}",".fullHeight {\r\n  height: 80vh;\r\n}"]}
