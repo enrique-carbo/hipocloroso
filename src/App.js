@@ -12,7 +12,7 @@ import Vet from './pages/Vet'
 function App() {
 
   return (
-    <HashRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter basename='/hipocloroso'>
       <Switch>
         <Route exact path="/" component={Home}/>
         <Route exact path="/medicine" component={Medicine}/>
