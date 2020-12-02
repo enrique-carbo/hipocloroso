@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hipocloroso/static/css/main.373cd98a.chunk.css",
-    "main.js": "/hipocloroso/static/js/main.5e663042.chunk.js",
-    "main.js.map": "/hipocloroso/static/js/main.5e663042.chunk.js.map",
+    "main.js": "/hipocloroso/static/js/main.491cc144.chunk.js",
+    "main.js.map": "/hipocloroso/static/js/main.491cc144.chunk.js.map",
     "runtime-main.js": "/hipocloroso/static/js/runtime-main.00f5f79b.js",
     "runtime-main.js.map": "/hipocloroso/static/js/runtime-main.00f5f79b.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/hipocloroso/static/css/2.20aa2d7b.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.12f4efc3.chunk.js",
     "static/css/main.373cd98a.chunk.css",
-    "static/js/main.5e663042.chunk.js"
+    "static/js/main.491cc144.chunk.js"
   ]
 }
