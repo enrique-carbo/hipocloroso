@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  BrowserRouter as Router,
+  HashRouter,
   Switch,
   Route,
 } from "react-router-dom";
@@ -12,13 +12,13 @@ import Vet from './pages/Vet'
 function App() {
 
   return (
-    <Router basename="/">
+    <HashRouter basename='/'>
       <Switch>
         <Route exact path="/" component={Home}/>
         <Route exact path="/medicine" component={Medicine}/>
         <Route exact path="/vet" component={Vet}/>
       </Switch>
-    </Router>
+    </HashRouter>
   );
 }
 
